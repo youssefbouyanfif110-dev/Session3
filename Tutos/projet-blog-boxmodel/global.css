@@ -1,0 +1,6 @@
+
+
+/* Cette règle s'applique à tous les éléments HTML */
+* {
+    box-sizing: border-box;
+}

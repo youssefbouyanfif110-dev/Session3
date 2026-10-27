@@ -1,0 +1,9 @@
+.carte-article {
+    width: 300px;
+    background: lightblue;
+    border: 3px solid blue;
+}
+
+.carte-contenu {
+    padding: 30px;
+}
