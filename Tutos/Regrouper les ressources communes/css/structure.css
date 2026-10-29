@@ -1,0 +1,14 @@
+header {
+    background-color: lightblue;
+    padding: 20px;
+}
+
+nav {
+    padding: 10px;
+}
+
+footer {
+    background-color: lightgray;
+    padding: 15px;
+    text-align: center;
+}
